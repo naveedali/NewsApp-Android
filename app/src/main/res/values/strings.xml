@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">News App</string>
+
+    <string name="news_top_headlines_title">Top Headlines</string>
+    <string name="news_switch_to_grid_view">Switch to grid view</string>
+    <string name="news_switch_to_list_view">Switch to list view</string>
+    <string name="news_retry">Retry</string>
+    <string name="news_article_image_content_description">Article image</string>
 </resources>
